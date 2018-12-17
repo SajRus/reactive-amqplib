@@ -1,6 +1,7 @@
 {
-  "name": "reactive-amqp",
+  "name": "reactive-amqplib",
   "version": "0.0.1",
+  "author": "Sajmir Rusi <stay.tuned.ww@gmail.com>",
   "description": "RxJs v6 wrapper for the amqplib",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
